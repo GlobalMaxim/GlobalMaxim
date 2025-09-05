@@ -2,7 +2,7 @@
 
 I have 3.5+ years of experience in Software Engineering and a Master’s in Computer Engineering.
 
-⚡ I enjoy building backend services that can handle growth, automating processes, and diving deep into web scraping and data extraction.
+⚡ I enjoy building backend services, automating processes, and diving deep into web scraping and data extraction.
 
 🛠️ I work confidently with databases, caching systems, REST APIs, and asynchronous programming.
 
