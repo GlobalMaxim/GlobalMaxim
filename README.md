@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Maksym
 
-I’m a Backend Developer with a Master’s in Computer Engineering and 3.5+ years of experience turning ideas into reliable, scalable systems.
+I have 3.5+ years of experience in Software Engineering and a Master’s in Computer Engineering.
 
 ⚡ I enjoy building backend services that can handle growth, automating processes, and diving deep into web scraping and data extraction.
 
@@ -12,5 +12,5 @@ I’m a Backend Developer with a Master’s in Computer Engineering and 3.5+ yea
 
 📊 I’ve also worked on internal analytics and data processing, making sense of data and improving workflows.
 
-✍️ Writing clean code and good documentation is important to me, and I love collaborating as part of a team to solve tricky problems.
+✍️ I love collaborating as part of a team to solve tricky problems.
 
