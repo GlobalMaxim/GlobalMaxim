@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Maksym
 
-I have 3.5+ years of experience in Software Engineering and a Master’s in Computer Engineering.
+I have over 4 years of experience in Software Engineering and a Master’s in Computer Engineering.
 
 ⚡ I enjoy building backend services, automating processes, and diving deep into web scraping and data extraction.
 
